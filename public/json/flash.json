@@ -1,0 +1,110 @@
+ [
+ 	{
+		"title":"Creation - inventors and makers - Red Bull.",
+		"image":"creation.jpg",
+		"tools":"Adobe Flash(ActionScript3), mobile/iPad, Photoshop, HTML, CSS, JavaScript, jQuery, XML, SWFAdress, SWFObject, Videos",
+		"url":"http://katomonster.com/creation/indexticide.php"
+    },
+	{
+		"title":"Project X - Lo Lo Jones - Red Bull.",
+		"image":"projectX.jpg",
+		"tools":"Adobe Flash(ActionScript3), mobile/iPad, Photoshop, HTML, CSS, JavaScript, jQuery, JSON, SWFAdress, SWFObject, Videos",
+		"url":"http://katomonster.com/projectX/"
+    },
+	{
+		"title":"Tron Legacy-Tron's licensed toys from Spin Master.",
+		"image":"tron.jpg",
+		"tools":"Adobe Flash(ActionScript3), Photoshop, HTML, CSS, JavaScript, XML, SWFAdress, SWFObject",
+		"url":"http://katomonster.com/tron/"
+    },
+	{
+		"title":"Bakugan Destroyer Showdown from Spin Master Toys w/HTML fallback.",
+		"image":"destroyerFlash.jpg",
+		"tools":"Adobe Flash(ActionScript3), Photoshop, HTML, CSS, jQuery, JavaScript, XML, SWFAdress, SWFObject, videos",
+		"url":"http://katomonster.com/bakuganDestroyer/"
+	},
+	{
+		"title":"Bakugan and Marvel's licensed toys from Spin Master w/HTML fallback.",
+		"image":"bakuganVSmarvelFlash.jpg",
+		"tools":"Adobe Flash(ActionScript3), Photoshop, HTML, CSS, jQuery, JavaScript, JSON, SWFAdress, SWFObject",
+		"url":"http://katomonster.com/bakuganVsMarvel/"
+    },
+	{
+		"title":"Flash site for Fab Effex, a creative art kit for kids, from Spin Master.",
+		"image":"fabeffex.jpg",
+		"tools":"Adobe Flash(ActionScript3), Photoshop, HTML, CSS, JavaScript, XML, SWFAdress, SWFObject, PHP, Videos",
+		"url":"http://katomonster.com/fabEffex/"
+	},
+	{
+		"title":"Tenaga from Ramuan, natural herb remedy products for men.",
+		"image":"tenaga.jpg",
+		"tools":"Adobe Flash(ActionScript3), Photoshop, HTML, Sound Effects",
+		"url":"http://www.katomonster.com/tenaga/"
+    },
+	{
+		"title":"Asmara from Ramuan, natural herb remedy products for women.",
+		"image":"asmara.jpg",
+		"tools":"Adobe Flash(ActionScript3), Photoshop, HTML, Sound Effects",
+		"url":"http://www.katomonster.com/asmara/"
+	},
+	{
+		"title":"DJ Kracked Aktor, music site for a premier DJ!",
+		"image":"djka.jpg",
+		"tools":"Adobe Flash(ActionScript3), Photoshop, Illustrator, HTML, XML, Videos, MP3 Loops",
+		"url":"http://djkrackedaktor.com/"
+    },
+	{
+		"title":"Zsa Zsa Intima Collezione-A High-Fashion apparel site.",
+		"image":"zsazsa.jpg",
+		"tools":"Adobe Flash(ActionScript3), Photoshop, Illustrator, HTML, MP3 loops, Photography",
+		"url":"http://katomonster.com/zsaZsaIntima/"
+	},
+	{
+		"title":"A bassists promotional site for yours truly",
+		"image":"tg.jpg",
+		"tools":"Adobe Flash(ActionScript3), Photoshop, Illustrator, HTML, XML, SWFAdress, SWFObject, Videos",
+		"url":"http://www.katomonster.com/TG/"
+    },
+	{
+		"title":"Bakugan Ultimate Showdown, Spin Master toys.",
+		"image":"ultimateShowdown.jpg",
+		"tools":"Adobe Flash(ActionScript3), Photoshop, HTML, JavaScript, XML, SWFObject, Videos",
+		"url":"http://katomonster.com/bakuganUltimateShowdown/"
+    },
+    {
+		"title":"Liv World Twist and Dance Mini site.",
+		"image":"twistAndDance.jpg",
+		"tools":"Adobe Flash(ActionScript3), Photoshop, Illustrator, HTML, CSS, JavaScript, XML, SWFObject",
+		"url":"http://katomonster.com/livTwistAndDance/"
+	},
+	{
+		"title":"Moon Dough, Spin Master toys.",
+		"image":"moonDough.jpg",
+		"tools":"Adobe Flash(ActionScript3), Photoshop, HTML, JavaScript, XML, SWFObject, Videos",
+		"url":"http://katomonster.com/moondough"
+    },
+	{
+		"title":"Hedbanz Board Game, from Spin Master toys./",
+		"image":"hedbanz.jpg",
+		"tools":"Adobe Flash(ActionScript3), Photoshop, HTML, XML, videos",
+		"url":"http://katomonster.com/hedbanz/"		
+    },
+	{
+		"title":"Stick A Doodle, from Spin Master toys.",
+		"image":"stickadoodle.jpg",
+		"tools":"Adobe Flash(ActionScript3), Photoshop, Illustrator, HTML, XML, Videos",
+		"url":"http://www.katomonster.com/stickadoodle/"
+	},
+	{
+		"title":"3D Flash Site for a leading ad agency",
+		"image":"wm.jpg",
+		"tools":"Adobe Flash(ActionScript3), Photoshop, PaperVision 3D, HTML, XML, Videos",
+		"url":"http://www.katomonster.com/wm/"
+	},
+	{
+		"title":" Querencia, real estate site demo, Web design and Flash programming.",
+		"image":"querencia.jpg",
+		"tools":"Adobe Flash(ActionScript3), Photoshop, HTML, JavaScript, SWFObject, Photography, Videos",
+		"url":"http://www.katomonster.com/Querencia_all/index.html"
+	}
+]

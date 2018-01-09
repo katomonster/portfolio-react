@@ -1,0 +1,93 @@
+ [
+ 	{
+		"title":"Adizero, Adidas Golf's new product.",
+		"tools":"HTML, HTML5 Video, CSS3, JavaScript, jQuery, Adobe Photoshop",
+		"image":"adizero.jpg",
+		"url":"http://katomonster.com/adizeros/"
+    },
+	{
+		"title":"Creation - inventors and makers - Red Bull.",
+		"image":"creation.jpg",
+		"tools":"Adobe Flash(ActionScript3), mobile/iPad, Photoshop, HTML, CSS, JavaScript, jQuery, XML, SWFAdress, SWFObject, Videos",
+		"url":"http://katomonster.com/creation/indexticide.php"
+    },
+	{
+		"title":"Project X - Lo Lo Jones - Red Bull.",
+		"image":"projectX.jpg",
+		"tools":"Adobe Flash(ActionScript3), mobile/iPad, Photoshop, HTML, CSS, JavaScript, jQuery, JSON, SWFAdress, SWFObject, Videos",
+		"url":"http://katomonster.com/projectX/"
+    },
+ 	{
+		"title":"Tron Legacy-Tron's licensed toys from Spin Master.",
+		"image":"tron.jpg",
+		"tools":"Adobe Flash(ActionScript3), Photoshop, HTML, CSS, JavaScript, XML, SWFAdress, SWFObject",
+		"url":"http://www.spinmaster.com/tron/"
+    },
+	{
+		"title":"Stratego, the Classic Game of Battlefield Strategy.",
+		"tools":"HTML, HTML5 Video, CSS3, JavaScript, jQuery, Adobe Photoshop",
+		"image":"stratego.jpg",
+		"url":"http://stratego.spinmastergames.com/"
+    },
+	{
+		"title":"Disney Appmates site. Comes to life digitally on Apple iPad.",
+		"image":"appmatesHTML.jpg",
+		"tools":"HTML, CSS3, JavaScript, jQuery, Adobe Photoshop. <span class='flashFallback'>To view the <i>Flash</i> version with seamless HTML fallback, <a href='http://www.appmatestoys.com/' target='_blank'>click here</a>.</span>",
+		"url":"http://katomonster.com/portfolio/appMates/"
+	},
+	{
+		"title":"Umagine Landing site, a hub for multiple brand site, with multiple language.",
+		"image":"umagine.jpg",
+		"tools":"HTML, CSS3, JavaScript, jQuery, Adobe Photoshop",
+		"url":"http://katomonster.com/portfolio/umagine/"
+    },
+	{
+		"title":"Bakugan Destroyer Showdown from Spin Master Toys w/HTML fallback.",
+		"image":"destroyerFlash.jpg",
+		"tools":"Adobe Flash(ActionScript3), Photoshop, HTML, CSS, jQuery, JavaScript, XML, SWFAdress, SWFObject, videos",
+		"url":"http://destroyershowdown.bakugan.com"
+	},
+	{
+		"title":"Bakugan and Marvel's licensed toys from Spin Master w/HTML fallback.",
+		"image":"bakuganVSmarvelFlash.jpg",
+		"tools":"Adobe Flash(ActionScript3), Photoshop, HTML, CSS, jQuery, JavaScript, JSON, SWFAdress, SWFObject",
+		"url":"http://bakuganversusmarvel.com/"
+    },
+	
+	{
+		"title":"Bakugan Versus Marvel site, HTML version.",
+		"image":"bakuganVSmarvelHTML.jpg",
+		"tools":"HTML, CSS3, JavaScript, jQuery, Adobe Photoshop.  <span class='flashFallback'>To view the <i>Flash</i> version with seamless HTML fallback, <a href='http://bakuganversusmarvel.com/' target='_blank'>click here</a>.</span>",
+		"url":"http://www.katomonster.com/bakuganVsMarvel/nonFlash.html"
+    },
+	{
+		"title":"Bakugan Destroyer site, HTML version",
+		"image":"destroyerHTML.jpg",
+		"tools":"HTML, CSS3, JavaScript, jQuery, Adobe Photoshop. <span class='flashFallback'>To view the <i>Flash</i> version with seamless HTML fallback, <a href='http://destroyershowdown.bakugan.com/' target='_blank'>click here</a>.</span>",
+		"url":"http://www.katomonster.com/bakuganDestroyer/nonFlash.html"
+    },
+	{
+		"title":"SlowFade, the band. Music site for my rock band.",
+		"image":"slowfade.jpg",
+		"tools":"HTML, CSS3, JavaScript, jQuery, Adobe Photoshop, Illustrator",
+		"url":"http://slowfadeband.com"
+	},
+	{
+		"title":"X-Concepts site, a hub for multiple brand site, with multiple language.",
+		"image":"xconcepts.jpg",
+		"tools":"HTML, CSS3, JavaScript, jQuery, Adobe Photoshop, Illustrator.",
+		"url":"http://x-concepts.com/"
+    },
+	{
+		"title":"Bakugan Ultimate Showdown, Spin Master toys.",
+		"image":"ultimateShowdown.jpg",
+		"tools":"Adobe Flash(ActionScript3), Photoshop, HTML, JavaScript, XML, SWFObject, Videos",
+		"url":"http://ultimateshowdown.bakugan.com/"
+    },
+	{
+		"title":"A bassists promotional site for yours truly",
+		"image":"tg.jpg",
+		"tools":"Adobe Flash(ActionScript3), Photoshop, Illustrator, HTML, XML, SWFAdress, SWFObject, Videos",
+		"url":"http://www.katomonster.com/TG/"
+    }
+]

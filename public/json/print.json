@@ -1,0 +1,39 @@
+ [
+	
+	{
+		"title":"The Company - Independent Film DVD cover Key Art",
+		"image":"theCompany.jpg",
+		"tools":"Adobe Photoshop, logo design",
+		"url":""
+	},
+	{
+		"title":"Elmo's World Summer Vacation P.O.P.",
+		"image":"elmoPOP.jpg",
+		"tools":"Adobe Illustrator, Photoshop",
+		"url":""
+    },
+	{
+		"title":"Home Buyers Guide Advertisement, cover +3",
+		"image":"homeBuyersGuide.jpg",
+		"tools":"Adobe, Photoshop, Illustrator",
+		"url":""
+	},
+	{
+		"title":"Teramachi Tri-fold Handout, downtown Los Angeles.",
+		"image":"teramachiHandout.jpg",
+		"tools":"Adobe Photoshop, Illustrator",
+		"url":""
+	},
+	{
+		"title":"Teramachi Brochure, downtown Los Angeles.",
+		"image":"teramachiBrochure.jpg",
+		"tools":"Adobe Photoshop, Illustrator",
+		"url":""
+    },
+	{
+		"title":"Madagascar 2 Escape From Africa DVD cover composition",
+		"image":"madagascar2.jpg",
+		"tools":"Adobe Photoshop",
+		"url":""
+	}
+]

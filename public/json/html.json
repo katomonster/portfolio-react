@@ -1,0 +1,75 @@
+ [
+ 	
+	{
+		"title":"Adizero, Adidas Golf's new product.",
+		"tools":"HTML, HTML5 Video, CSS3, JavaScript, jQuery, Adobe Photoshop",
+		"image":"adizero.jpg",
+		"url":"http://katomonster.com/adizeros/"
+    },
+	{
+		"title":"Stratego, the classic game of battlefield strategy.",
+		"tools":"HTML, HTML5 Video, CSS3, JavaScript, jQuery, Adobe Photoshop",
+		"image":"stratego.jpg",
+		"url":"http://stratego.spinmastergames.com/"
+    },
+	{
+		"title":"Disney Appmates site. Comes to life digitally on Apple iPad.",
+		"image":"appmatesHTML.jpg",
+		"tools":"HTML, CSS3, JavaScript, jQuery, Adobe Photoshop. <span class='flashFallback'>To view the <i>Flash</i> version with seamless HTML fallback, <a href='http://www.appmatestoys.com/' target='_blank'>click here</a>.</span>",
+		"url":"http://katomonster.com/portfolio/appMates/"
+	},
+	{
+		"title":"Umagine Landing site. A hub page for multiple brands, with multiple languages.",
+		"image":"umagine.jpg",
+		"tools":"HTML, CSS3, JavaScript, jQuery, Adobe Photoshop",
+		"url":"http://katomonster.com/portfolio/umagine/"
+    },
+	{
+		"title":"SlowFade, the band. Music site for my rock band.",
+		"image":"slowfade.jpg",
+		"tools":"HTML, CSS3, JavaScript, jQuery, Adobe Photoshop, Illustrator",
+		"url":"http://slowfadeband.com"
+	},
+	{
+		"title":"Bakugan Versus Marvel, from Spin Master toys.",
+		"image":"bakuganVSmarvelHTML.jpg",
+		"tools":"HTML, CSS3, JavaScript, jQuery, Adobe Photoshop. <span class='flashFallback'>To view the <i>Flash</i> version with seamless HTML fallback, <a href='http://bakuganversusmarvel.com/' target='_blank'>click here</a>.</span>",
+		"url":"http://www.katomonster.com/bakuganVsMarvel/nonFlash.html"
+    },
+	{
+		"title":"Bakugan Destroyer, from Spin Master toys",
+		"image":"destroyerHTML.jpg",
+		"tools":"HTML, CSS3, JavaScript, jQuery, Adobe Photoshop. <span class='flashFallback'>To view the <i>Flash</i> version with seamless HTML fallback, <a href='http://destroyershowdown.bakugan.com/' target='_blank'>click here</a>.</span>",
+		"url":"http://www.katomonster.com/bakuganDestroyer/nonFlash.html"
+    },
+	{
+		"title":"X-Concepts site, a hub Page for multiple brands, with multiple languages.",
+		"image":"xconcepts.jpg",
+		"tools":"HTML, CSS3, JavaScript, jQuery, Adobe Photoshop, Illustrator.",
+		"url":"http://x-concepts.com/"
+    },
+	{
+		"title":"Tony Hawk Grind Krew site, a coming-soon site, with multiple languages.",
+		"image":"grindKrew.jpg",
+		"tools":"HTML, CSS3, JavaScript, jQuery, Adobe Photoshop, Illustrator.",
+		"url":"http://grindkrew.com/"
+    },
+	{
+		"title":"Katomonster Homepage.",
+		"tools":"HTML, CSS3, JavaScript, jQuery, Adobe Photoshop",
+		"image":"chooseYourEvil.jpg",
+		"url":"http://katomonster.com/"
+    },
+	{
+		"title":"Creation - inventors and makers - Red Bull.",
+		"image":"creation.jpg",
+		"tools":"Photoshop, HTML, CSS, JavaScript, jQuery, XML, Videos",
+		"url":"http://katomonster.com/creation/ipad/"
+    },
+	{
+		"title":"Project X - Lo Lo Jones - Red Bull - mobile.",
+		"image":"projectX.jpg",
+		"tools":"Photoshop, HTML, CSS, JavaScript, jQuery, JSON, Videos",
+		"url":"http://katomonster.com/projectX/ipad.html"
+    }
+]

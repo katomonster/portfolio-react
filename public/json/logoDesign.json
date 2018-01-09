@@ -1,0 +1,33 @@
+ [
+	
+	{
+		"title":"Scott Taylor, Holistic Dentisty Logo.",
+		"image":"scottTaylorDentistry.jpg",
+		"tools":"Adobe Illustrator, Photoshop",
+		"url":""
+    },
+	{
+		"title":"Tremont, logo for a real estate firm",
+		"image":"tremont.jpg",
+		"tools":"Adobe, Photoshop, Illustrator",
+		"url":""
+	},
+	{
+		"title":"Safe Send FTP logo.",
+		"image":"safeSend.jpg",
+		"tools":"Adobe Photoshop, Illustrator",
+		"url":""
+	},
+	{
+		"title":"Animerica Logo",
+		"image":"animerica.jpg",
+		"tools":"Adobe Photoshop, Illustrator",
+		"url":""
+    },
+	{
+		"title":"Fresh Interactive Logo composition",
+		"image":"fresh.jpg",
+		"tools":"Adobe Photoshop, Illustrator",
+		"url":""
+    }
+]
