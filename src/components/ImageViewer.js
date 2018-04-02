@@ -2,11 +2,9 @@ import React from 'react';
 
 const ImageViewer = (props) => {
 	const { viewerLink, viewerTools, viewerUrl, viewerAlt } = props;
-  const imageStrips = [];
-  for (let i = 0; i < 10; i++) {
-    imageStrips.push(<div key = {i} className = 'image-strip'></div>);
-  }
-  const launchLink = viewerUrl ? <a className = 'launch-btn' href = {viewerUrl} target='_blank'>Launch</a> : ``;
+  const imageStrips = Array(10).fill().map((strip, i) => (<div key = {i} className = 'image-strip'></div>) );
+
+  const launchLink = viewerUrl ? <a className = 'launch-btn' href = {viewerUrl.toString()} target='_blank'>Launch</a> : undefined;
 
   return (
     <figure  className = {viewerLink ? 'active image-viewer' : 'hide image-viewer'}>

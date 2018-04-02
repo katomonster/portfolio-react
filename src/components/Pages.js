@@ -33,7 +33,7 @@ class Home extends Component {
   render() {
     return (
       <section className = "container">
-        <header className = "main-header">
+        <header className = "section-header">
           <h1 className = "app-title">{this.props.pageName}</h1>
         </header>
         <figure className='image-viewer-thumbs'>

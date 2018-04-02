@@ -48,8 +48,8 @@ const Main = (props) => {
               <div id="topNavigation">
                 <header>Development:</header>
                 <NavLink exact to = '/recent-work'>Recent Work</NavLink>
-                <NavLink exact to = '/flash'>Flash</NavLink>
                 <NavLink exact to = '/html5'>HTML5</NavLink>
+                <NavLink exact to = '/actionScript3'>ActionScript 3</NavLink>
                 <NavLink exact to = '/animation'>Animation</NavLink>
                 <NavLink exact to = '/kids-games'>Kids Games</NavLink>
                 <NavLink exact to = '/banner'>Rich Media</NavLink>
@@ -65,7 +65,7 @@ const Main = (props) => {
           </header>
 
           <Route exact path = '/' render = {() => _renderPage('./json/recentWork.json' ,'Home Page')}/>
-          <Route exact path = '/flash' render = {() => _renderPage('./json/flash.json', 'ActionScript3 pages')} />
+          <Route exact path = '/actionScript3' render = {() => _renderPage('./json/flash.json', 'ActionScript3 pages')} />
           <Route exact path = '/animation' render = {() => _renderPage('./json/animation.json', 'Animations • Film Opening • Splash Pages')} />
           <Route exact path = '/artwork' render = {() => _renderPage('./json/artwork.json', 'Artwork')} />
           <Route exact path = '/banner' render = {() => _renderPage('./json/banner.json', 'Rich Media • Banner Ads')} />
