@@ -424,7 +424,8 @@ main {
     > nav {
       flex: 0;
       transform: translateX(-100%);
-      width: 0;
+      width: calc(100% - 62px);
+      max-width: 0;
       height: 100%;
       position: fixed;
       top: 0;
@@ -433,7 +434,8 @@ main {
       opacity: 0;
       overflow: hidden;
       margin: 0;
-      transition: transform 300ms, opacity 300ms;
+      padding: 0;
+      transition: transform 300ms, opacity 300ms, max-width 300ms;
       background: rgba(255,255,255,0.95);
       border-radius: 0 0 10px;
       box-sizing: border-box;
@@ -444,7 +446,7 @@ main {
   .active-hamburger-menu {
     overflow: hidden;
     #main-header > nav {
-      width: calc(100% - 62px);
+      max-width: 700px;
       transform: translateX(0);
       opacity: 1;
       padding: 38px;
