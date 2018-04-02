@@ -27,9 +27,10 @@ main {
   background: rgba(255, 255, 255, 0.5);
   border-radius: 10px;
   padding: 20px;
-  height: 450px;
+  height: 498px;
   overflow-x: hidden;
   overflow-y: scroll;
+  box-sizing: border-box;
 
   h1 {
     margin: 0;
@@ -266,7 +267,7 @@ main {
   display: flex;
   align-items: center;
   margin-top: 17px;
-  height: 138px;
+  height: 134px;
   nav {
     display: flex;
     flex-flow: column;
@@ -333,6 +334,7 @@ main {
   width: 105px;
   height: 111px;
   display: inline-block;
+  z-index: 1;
 }
 #brand-id {
   white-space: nowrap;
@@ -395,10 +397,10 @@ main {
 }
 @media (max-width: 699px) {
   body {
-    background-size: contain;
+    background-size: 100% 75%;
   }
   #main-header {
-    height: 100px;
+    height: 66px;
     nav {
       max-height: 0;
       opacity: 0;
