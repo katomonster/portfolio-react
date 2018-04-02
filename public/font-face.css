@@ -1,0 +1,21 @@
+@font-face {
+  font-family: 'ChansonHeavySFBold';
+  src: url("../fonts/chalb-webfont-webfont.eot");
+  src: url("../fonts/chalb-webfont-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/chalb-webfont-webfont.woff") format("woff"), url("../fonts/chalb-webfont-webfont.ttf") format("truetype"), url("../fonts/chalb-webfont-webfont.svg#ChansonHeavySFBold") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'ChansonHeavySFBoldItalic';
+  src: url("../fonts/chalbi-webfont.eot");
+  src: url("../fonts/chalbi-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/chalbi-webfont.woff") format("woff"), url("../fonts/chalbi-webfont.ttf") format("truetype"), url("../fonts/chalbi-webfont.svg#ChansonHeavySFBoldItalic") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'AveriaSansRegular';
+  src: url("../fonts/averiasans-regular-webfont.eot");
+  src: url("../fonts/averiasans-regular-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/averiasans-regular-webfont.woff") format("woff"), url("../fonts/averiasans-regular-webfont.ttf") format("truetype"), url("../fonts/averiasans-regular-webfont.svg#AveriaSansRegular") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
